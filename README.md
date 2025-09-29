@@ -27,3 +27,8 @@ Dengan adanya residual connection, gradien punya jalur alternatif untuk mengalir
 
 
 ## Konfigurasi Hyperparamter yang digunakan untuk kedua eksperimen
+
+## link colab 
+https://colab.research.google.com/drive/1eQjvAdTxYh4CxwY_quDHLVQ9ZXE7eAjG?usp=sharing 
+
+(https://colab.research.google.com/drive/1eQjvAdTxYh4CxwY_quDHLVQ9ZXE7eAjG?usp=sharing)
