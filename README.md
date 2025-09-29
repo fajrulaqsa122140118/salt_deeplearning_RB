@@ -4,18 +4,19 @@
 - ## Nim Anggota : 122140104, 122140118 ,122140117
 
 ## Perbandingan Metrik 
+
 1. Training Accuracy
-- Plain-34 : 
-- Resnet-34 :
+- Plain-34 : 0,65
+- Resnet-34 : 0,7781
 2. Validation Accuracy
-- Plain-34 :
-- resnet- 34 :
+- Plain-34 : 0,51
+- resnet- 34 : 0,60
 3. training loss
-- Plain-34 :
-- resnet- 34 :
+- Plain-34 : 0.9890 
+- resnet- 34 : 0,75
 4. validation loss
-- Plain-34 :
-- resnet- 34 :
+- Plain-34 : 1,25
+- resnet- 34 : 1.09
 
 ## Grafik Sederhana
 
